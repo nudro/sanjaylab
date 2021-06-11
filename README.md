@@ -1,6 +1,6 @@
 ## Welcome!
 <hr>
-[People](about.md)
+[People] ("about.md")
 <hr>
 {% include button.html url="http://www.google.com" %}
 
