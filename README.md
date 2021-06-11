@@ -3,7 +3,7 @@
 [People] (about.md)
 [I'm an inline-style link](https://www.google.com)
 <hr>
-{% include button.html url="http://www.google.com" %}
+
 
 Here at <a href="https://informationsystems.umbc.edu/"> the University of Maryland Baltimore Count (UMBC) Dept. of Information Systems (IS) </a>, our lab conducts deep learning research applying neural networks towards tasks in multivariate time series imputation for healthcare data, benchmarking and interpretability, survival modeling, competing risk analysis, domain adaptation, and multispectral image translation. We invite you to learn more about our team, current research, and published papers. The lab is always seeking motivated and experienced graduate students for exciting research opportunities, so stay tuned for announcements!
 
