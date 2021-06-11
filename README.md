@@ -1,6 +1,7 @@
 ## Welcome!
 <hr>
-[People] ("about.md")
+[People] (about.md)
+[I'm an inline-style link](https://www.google.com)
 <hr>
 {% include button.html url="http://www.google.com" %}
 
