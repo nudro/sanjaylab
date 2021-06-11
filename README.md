@@ -1,38 +1,17 @@
-## AI Lab led by Dr. Sanjay Purushotham at UMBC
+## AI Healthcare at UMBC
 
-You can use the [editor on GitHub](https://github.com/nudro/sanjaylab/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Here at University of Maryland Baltimore Count (UMBC), our lab conducts deep learning research applying neural networks towards tasks in multivariate time series imputation for healthcare data, benchmarking and interpretability, survival modeling, competing risk analysis, domain adaptation, and multispectral image translation. We invite you to learn more about our team, current research, and published papers. The lab is always seeking motivated and experienced graduate students for exciting research opportunities, so stay tuned for announcements!
+
+![Image]('umbc.jpg')
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### Announcements
+
+### Recent Publications
 
 
 
 
-```markdown
-Syntax highlighted code block
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/nudro/sanjaylab/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[Link](about.md) and ![Image](src)
