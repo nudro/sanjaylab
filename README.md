@@ -13,6 +13,8 @@ We invite you to learn more about the field of **Information Science**, an excit
 <img src="rahman.png" width="100" /> <br>
 **Congratulations to Ph.D student, Md Mahmudur Rahman**, for his second place finish in the annual <a href="https://informationsystems.umbc.edu/home/research/is-poster-day/">IS Dept. PhD Poster Day</a>! Check out the winning paper <a href="https://ojs.aaai.org/index.php/AAAI/article/view/16125"> DeepPseudo: Pseudo Value Based Deep Learning Models for Competing Risk Analysis </a>.
 
+![Image](pseudo.png)
+
 
 ## People
 
