@@ -19,7 +19,7 @@ Abstract: Competing Risk Analysis (CRA) aims at the correct estimation of the ma
 
 ## People
 
-***Dr. Sanjay Purushotham***
+***Dr. Sanjay Purushotham***<br>
 
 <img src="sanjay.jpg" width="100" /><br>
 Sanjay Purushotham is an Assistant Professor in the Department of Information Systems at the University of Maryland Baltimore County (UMBC). Before joining UMBC, he was a Postdoctoral Scholar Research Associate in the Department of Computer Science and Integrated Media Systems Center (IMSC) at the University of Southern California (USC), where he was mentored by Prof. Yan Liu and Prof. Cyrus Shahabi. He obtained his PhD in Electrical Engineering from USC under the supervision of Prof. C.-C. Jay Kuo in the Media Communications Labs (MCL). His research interests are in machine learning, data mining, optimization theory, statistics, computer vision and its applications to healthcare & bio-informatics, social networks and multimedia data.
@@ -27,14 +27,14 @@ Sanjay Purushotham is an Assistant Professor in the Department of Information Sy
 <a href="https://sanjayp.is.umbc.edu/"><img src="https://img.shields.io/badge/-CV-yellow"></a>
 <a href="https://scholar.google.com/citations?hl=en&user=Q0iwucYAAAAJ/"><img src="https://img.shields.io/badge/-Google Scholar-blue"></a>
 
-***Md Mahmudur Rahman***
+***Md Mahmudur Rahman***<br>
 
 <img src="rahman.png" width="100" /><br>
 Rahman is a second year Ph.D student in Information Systems at the University of Maryland Baltimore County (UMBC), advised by Dr. Sanjay Purushotham. His research focus is on the application of machine learning and statistical learning to healthcare. His research interests include survival analysis, deep learning, causal inference, explainable AI, quantifying uncertainty in machine learning models. He completed my B.Sc. and M.Sc. in Statistics from the University of Dhaka, Bangladesh. Before joining UMBC, he was an assistant director in the statistics department of the central bank of Bangladesh. He loves music, traveling and playing soccer.<br>
 <a href="https://www.linkedin.com/in/md-mahmudur-rahman-20b1ab109/"><img src="https://img.shields.io/badge/-LinkedIn-orange"></a>
 
 
-***Catherine Ordun***
+***Catherine Ordun***<br>
 
 <img src="catherine.jpeg" width="100" /><br>
 Catherine is a second year Ph.D student, who joined the lab after several years in industry. She began work at the Centers for Disease Control and Prevention (CDC) in Atlanta followed by work in defense and national security in Washington, D.C. She was a senior data scientist with Booz Allen Hamilton before starting the Ph.D program, having worked on a variety of AI and machine learning problems in defense and health. She is currently focused on visible-to-thermal image-to-image translation using GANs, in addition to multimodal pain detection using video, face detection, audio, and text for the National Institute of Health (NIH) and Booz Allen Hamilton. She enjoys running with her dogs, and lives abroad in Israel.
@@ -43,7 +43,7 @@ Catherine is a second year Ph.D student, who joined the lab after several years 
 <a href="https://scholar.google.com/citations?hl=en&user=hzuDZZwAAAAJ"><img src="https://img.shields.io/badge/-Google Scholar-blue"></a>
 <a href="https://twitter.com/nudro"><img src="https://img.shields.io/twitter/url?url=https%3A%2F%2Fshields.io"></a>
 
-***Xiangyang Meng***
+***Xiangyang Meng***<br>
 
 ***Jal Irani***
 
@@ -51,9 +51,10 @@ Catherine is a second year Ph.D student, who joined the lab after several years 
 Jal is a Ph.D. student in the Department of Information Systems at UMBC. His research interests are centered around machine learning and natural language processing. Jal is also a faculty member at Johns Hopkins Carey Business School and Towson University's Computer and Information Sciences Department where he primarily teaches full-stack web and mobile development courses. <br>
 <a href="https://www.linkedin.com/in/jalirani/"><img src="https://img.shields.io/badge/-LinkedIn-orange"></img></a>
 
-***Matthew Lee***
+***Matthew Lee***<br>
 
 ## Recent Publications
+
 <a href="https://ojs.aaai.org/index.php/AAAI/article/view/16125">
 DeepPseudo: Pseudo Value Based Deep Learning Models for Competing Risk Analysis</a>
 MM Rahman, K Matsuo, S Matsuzaki, S Purushotham
