@@ -1,3 +1,0 @@
-# About
-
-Example paragraph here.
