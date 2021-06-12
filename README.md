@@ -49,34 +49,29 @@ Catherine is a second year Ph.D student, who joined the lab after several years 
 
 <img src="jal.jpeg" width="100" /><br>
 Jal is a Ph.D. student in the Department of Information Systems at UMBC. His research interests are centered around machine learning and natural language processing. Jal is also a faculty member at Johns Hopkins Carey Business School and Towson University's Computer and Information Sciences Department where he primarily teaches full-stack web and mobile development courses. <br>
-<a href="https://www.linkedin.com/in/jalirani/"><img src="https://img.shields.io/badge/-LinkedIn-orange"></img></a>
+<a href="https://www.linkedin.com/in/jalirani/"><img src="https://img.shields.io/badge/-LinkedIn-orange"></a>
 
 ***Matthew Lee***<br>
 
 ## Recent Publications
 
-<a href="https://ojs.aaai.org/index.php/AAAI/article/view/16125">
-DeepPseudo: Pseudo Value Based Deep Learning Models for Competing Risk Analysis</a>
+<a href="https://ojs.aaai.org/index.php/AAAI/article/view/16125">DeepPseudo: Pseudo Value Based Deep Learning Models for Competing Risk Analysis</a>
 MM Rahman, K Matsuo, S Matsuzaki, S Purushotham
 Proceedings of the AAAI Conference on Artificial Intelligence 35 (1), 479-487
 
-<a href="https://ieeexplore.ieee.org/abstract/document/9377756">
-Deep Domain Adaptation based Cloud Type Detection using Active and Passive Satellite Data</a>
+<a href="https://ieeexplore.ieee.org/abstract/document/9377756">Deep Domain Adaptation based Cloud Type Detection using Active and Passive Satellite Data</a>
 X Huang, S Ali, C Wang, Z Ning, S Purushotham, J Wang, Z Zhang
 2020 IEEE International Conference on Big Data (Big Data), 1330-1337
 
-<a href="https://par.nsf.gov/servlets/purl/10218874">
-The Use of AI for Thermal Emotion Recognition: A Review of Problems and Limitations in Standard Design and Data
-</a>
+<a href="https://par.nsf.gov/servlets/purl/10218874">The Use of AI for Thermal Emotion Recognition: A Review of Problems and Limitations in Standard Design and Data</a>
 C Ordun, E Raff, S Purushotham
 Proceedings of the AAAI Conference on Artificial Intelligence, arXiv preprint arXiv:2009.10589
 
-<a href="https://arxiv.org/abs/2005.03082https://arxiv.org/abs/2005.03082">
-Exploratory Analysis of Covid-19 Tweets using Topic Modeling, UMAP, and DiGraphs</a>
+<a href="https://arxiv.org/abs/2005.03082https://arxiv.org/abs/2005.03082">Exploratory Analysis of Covid-19 Tweets using Topic Modeling, UMAP, and DiGraphs</a>
 C Ordun, S Purushotham, E Raff
 epiDAMIK 3.0: The 3rd International workshop on Epidemiology meets Data …
 
-<a href="https://par.nsf.gov/servlets/purl/10217824>
+<a href="https://par.nsf.gov/servlets/purl/10217824">
 Deep Multi-Sensor Domain Adaptation on Active and Passive Satellite Remote Sensing Data</a>
 Xin Huang, Sahara Ali, Sanjay Purushotham, Jianwu Wang, Chenxi Wang, Zhibo Zhang
 KDD Workshop on Deep Learning for Spatiotemporal Data, Applications, and …	1	2020
