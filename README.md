@@ -30,16 +30,12 @@ Sanjay Purushotham is an Assistant Professor in the Department of Information Sy
 
 <img src="rahman.png" width="100" /><br>
 Rahman is a second year Ph.D student in Information Systems at the University of Maryland Baltimore County (UMBC), advised by Dr. Sanjay Purushotham. His research focus is on the application of machine learning and statistical learning to healthcare. His research interests include survival analysis, deep learning, causal inference, explainable AI, quantifying uncertainty in machine learning models. He completed my B.Sc. and M.Sc. in Statistics from the University of Dhaka, Bangladesh. Before joining UMBC, he was an assistant director in the statistics department of the central bank of Bangladesh. He loves music, traveling and playing soccer.<br>
-<<<<<<< HEAD
 <a href="https://www.linkedin.com/in/md-mahmudur-rahman-20b1ab109/"><img src="https://img.shields.io/badge/-LinkedIn-orange"></img></a>
 <a href="https://mrahman93.github.io/"><img src="https://img.shields.io/badge/-Site-pink"></a>
-=======
-<a href="https://www.linkedin.com/in/md-mahmudur-rahman-20b1ab109/"><img src="https://img.shields.io/badge/-LinkedIn-orange"></a>
+
 
 
 ***Catherine Ordun***<br>
->>>>>>> 4e85ece5bf025417b76d40eb8e77ba6f55da6ad1
-
 <img src="catherine.jpeg" width="100" /><br>
 Catherine is a second year Ph.D student, who joined the lab after several years in industry. She began work at the Centers for Disease Control and Prevention (CDC) in Atlanta followed by work in defense and national security in Washington, D.C. She was a senior data scientist with Booz Allen Hamilton before starting the Ph.D program, having worked on a variety of AI and machine learning problems in defense and health. She is currently focused on visible-to-thermal image-to-image translation using GANs, in addition to multimodal pain detection using video, face detection, audio, and text for the National Institute of Health (NIH) and Booz Allen Hamilton. She enjoys running with her dogs, and lives abroad in Israel.
 
@@ -53,12 +49,10 @@ Catherine is a second year Ph.D student, who joined the lab after several years 
 
 <img src="jal.jpeg" width="100" /><br>
 Jal is a Ph.D. student in the Department of Information Systems at UMBC. His research interests are centered around machine learning and natural language processing. Jal is also a faculty member at Johns Hopkins Carey Business School and Towson University's Computer and Information Sciences Department where he primarily teaches full-stack web and mobile development courses. <br>
-<<<<<<< HEAD
+
 <a href="https://www.linkedin.com/in/jalirani/"><img src="https://img.shields.io/badge/-LinkedIn-orange"></img></a>
 <a href="https://www.jalirani.com/"><img src="https://img.shields.io/badge/-Site-pink"></a>
-=======
-<a href="https://www.linkedin.com/in/jalirani/"><img src="https://img.shields.io/badge/-LinkedIn-orange"></a>
->>>>>>> 4e85ece5bf025417b76d40eb8e77ba6f55da6ad1
+
 
 ***Matthew Lee***<br>
 
